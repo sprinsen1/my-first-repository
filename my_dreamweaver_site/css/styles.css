@@ -1,0 +1,23 @@
+@charset "utf-8";
+body {
+    background-image: url("../images/jGlzr.png");
+	background-size: cover;
+}
+.my-class {
+    color: black;
+    font-family: 'Oxanium', ;
+}
+
+.red {color: red
+}
+.bold {font-weight: bold;
+}
+p {text-align: center;
+}
+.div { text-align: center;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
